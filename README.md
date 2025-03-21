@@ -32,9 +32,7 @@ Before using the script, make sure you have the following installed:
 +  **Python Libraries:** You can install the required libraries using pip:
 
 ```
-
 pip install ping3 scapy
-
 ```
 
 + **Nmap:** Make sure Nmap is installed and can be accessed from C:\Program Files (x86)\Nmap. You can download Nmap from https://nmap.org/download.html.
